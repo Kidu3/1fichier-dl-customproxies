@@ -17,7 +17,7 @@ This a fork of the original project as it's no longer maintained.
 </p>
 
 <p align="center">
-  <img src="https://github.com/manuGMG/1fichier-dl/blob/main/preview.png?raw=true"></img>
+  <img src="https://raw.githubusercontent.com/paulo27ms/1fichier-dl-customproxies/main/preview.png"></img>
 </p>
 
 ## Features
